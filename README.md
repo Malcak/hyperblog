@@ -1,4 +1,4 @@
-# hyperblog ���
+# hyperblog 💚
 
 Un blog increible para el cursod e git y github de platzi
 
@@ -13,5 +13,6 @@ Un blog increible para el cursod e git y github de platzi
 -   Trucos muy locos del profesor
 -   Las personalidades multiples de Freddy
 -   Creado por el increible platzi team
+-   Incluye ejemplos en win linux y mac
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado paara el ejemplo. Si llegas acá NO TE LO TOMES ENSERIO y mejor [ve a ver el curso](https://platzi.com/cursos/git-github/ 'a ver el curso').
